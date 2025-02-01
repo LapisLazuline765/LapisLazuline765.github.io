@@ -1,0 +1,14 @@
+# main:
+#   - title: "Gakumas English Translations"
+#     url: "index.html"
+
+gakumas-nav:
+  - title: "Intro"
+    url: /gakumas/settings/intro
+  - title: "Idols"
+    #url: /gakumas/idols
+  - title: "Events"
+    #url: /gakumas/events
+    children:
+      - title: Valentine Concerto
+        url: /gakumas/events/valentineconcerto
