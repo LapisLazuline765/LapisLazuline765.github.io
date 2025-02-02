@@ -110,9 +110,11 @@ __Hiro:__ ...-
 __Rinami:__ Kyaaaaaaaaaaaaa!
 
 ---
-________________________
+
 #### Valentine Concerto Part 2
+
 ---
+
 *__In the communal kitchen__*
 
 __Rinami:__ ...there, I got all the chocolate. Even so, I was surprised.
@@ -180,7 +182,7 @@ __Hiro:__ ...?
 
 __Rinami:__ If you would like, we can make chocolate together?
 
-__Rinami:__ The day after tomorrow the student council will be sponsoring (throwing) a Valentine's Day festival.<br />
+__Rinami:__ The day after tomorrow the student council will be sponsoring a Valentine's Day festival.<br />
 __Rinami:__ I was planning to make a lot of chocolate.
 
 __Hiro:__ ...thank you, but...<br />
@@ -208,7 +210,7 @@ __Hiro:__ ...-
 __Rinami:__ Hey, Hiro-chan- what kind of chocolate do you want to make?
 
 __Hiro:__ ...what kind?<br />
-__Hiro:__ ...(there) I didn't really think about it.
+__Hiro:__ ...I didn't really think about it.
 
 __Rinami:__ Is that so. Well, it might be better to think about it first.<br />
 __Rinami:__ Imagine someone you care about and want to give chocolate to.<br />
@@ -245,6 +247,7 @@ __Hiro:__ Who?
 __Rinami:__ The person at Hatsuboshi Gakuen who gets the most chocolate.
 
 ---
-________________________
+
 #### Valentine Concerto Part 3
+
 ---
