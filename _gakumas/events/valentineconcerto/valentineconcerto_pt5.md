@@ -1,6 +1,6 @@
 ---
 title: "Valentine Concerto Part 5"
-permalin__Kotone:__ /gakumas/events/valentineconcerto/valentineconcerto_pt5
+permalink: /gakumas/events/valentineconcerto/valentineconcerto_pt5
 name: Valentine Concerto Part 5
 ---
 ________________________
@@ -105,7 +105,7 @@ __Hiro:__ ...it would be best if this goes smoothly.<br />
 __Hiro:__ [*thinking*] *China, Ume, Misuzu, my precious friends.*<br />
 __Hiro:__ [*thinking*] *These feelings of thanks, I'll use them to sing a lot-* [*Hiro walks out on stage*]
 
-[Happy Mille-feuille starts playing]
+[Happy Millefeuille starts playing]
 
 ---
 

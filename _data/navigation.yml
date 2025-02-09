@@ -7,6 +7,9 @@ gakumas-nav:
     url: /gakumas/settings/intro
   - title: "Idols"
     #url: /gakumas/idols
+    children:
+      - title: Hiro Shinosawa
+        url: /gakumas/idols/hiro/cardlist
   - title: "Events"
     #url: /gakumas/events
     children:

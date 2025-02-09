@@ -39,7 +39,7 @@ __Ume:__ Every year, Onee-chan and I make chocolates and exchange them!
 
 __China:__ Oh, so that's how it is!
 
-__China:__ [*doing an impression of Saki*] Ume, let's compete to see whose chocolate is more delicious!
+__China:__ [*doing an impression of Saki*] "Ume, let's compete to see whose chocolate is more delicious!"
 
 __Ume:__ China-chan, that's not like her at all~.<br />
 __Ume:__ We used to compete in the past, but don't anymore.<br />

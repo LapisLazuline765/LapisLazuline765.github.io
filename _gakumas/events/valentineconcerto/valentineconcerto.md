@@ -14,6 +14,7 @@ ________________________
 [Valentine Concerto Part 5](/gakumas/events/valentineconcerto/valentineconcerto_pt5)
 #### Produce Card Translations
 ----
+[[Happy Millefeuille] Hiro Shinosawa](/gakumas/producecards/hiro/happymillefeuille)
 
 #### Support Card Translations
 ----
@@ -21,7 +22,7 @@ ________________________
 #### Song Translations
 ----
 Translation by [The Kobemaster](https://www.youtube.com/@imasloid)
-[![Happy Mille-feuille](https://img.youtube.com/vi/XWdQfaF5S7Y/0.jpg)](https://www.youtube.com/watch?v=XWdQfaF5S7Y)
+[![Happy Millefeuille](https://img.youtube.com/vi/XWdQfaF5S7Y/0.jpg)](https://www.youtube.com/watch?v=XWdQfaF5S7Y)
 
 #### Comic Translations
 ----
