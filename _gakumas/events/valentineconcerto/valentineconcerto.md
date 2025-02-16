@@ -14,10 +14,15 @@ ________________________
 [Valentine Concerto Part 5](/gakumas/events/valentineconcerto/valentineconcerto_pt5)
 #### Produce Card Translations
 ----
-[[Happy Millefeuille] Hiro Shinosawa](/gakumas/producecards/hiro/happymillefeuille)
-
+[[Happy Millefeuille] Hiro Shinosawa](/gakumas/producecards/hiro/happymillefeuille)<br />
+[[Happy Millefeuille] Rinami Himesaki]<br />
+[[Happy Millefeuille] Sena Juuou]
 #### Support Card Translations
 ----
+[[SSC's Secret] Rinami & Ume]<br />
+[[Valentine's ♡ Meeting in Progress!] Rinami & Ume]<br />
+[[With All My Heart] Sena & Misuzu]<br />
+[[I Will Definitely Give It to You!] Sena & China]
 
 #### Song Translations
 ----
@@ -30,4 +35,4 @@ Translation by [The Kobemaster](https://www.youtube.com/@imasloid)
 #### Cultural Notes
 ----
 + Friend chocolate (友チョコ) is a chocolate given between friends. You can read more about the types of chocolate given out for Valentine's Day in Japan [here](https://cotoacademy.com/valentines-day-in-japan/).
-+ The kanji lesson of this event is: 大切 (taiseteuたいせつ). It mean important, precious, or dear. In the event, it's used to describe friends and who you want to think about when giving out chocolate.  Learn more about the kanji [here](https://www.wanikani.com/vocabulary/%E5%A4%A7%E5%88%87).
++ The kanji lesson of this event is: 大切 (たいせつ/taiseteu). It mean important, precious, or dear. In the event, it's used to describe friends and who you want to think about when giving out chocolate.  Learn more about the kanji [here](https://www.wanikani.com/vocabulary/%E5%A4%A7%E5%88%87).
