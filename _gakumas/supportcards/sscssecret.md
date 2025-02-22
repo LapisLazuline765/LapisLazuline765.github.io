@@ -12,7 +12,7 @@ ________________________
 *__In Saki's Room__*
 
 __Saki__: Gunununununu~~~~~! <br />
-__Saki__: It's frustrating, it's frustrating~~~~!!<br />
+__Saki__: It's frustrating, it's frustrating~~~~~!!<br />
 __Saki__: After Ume joined, she's been relying on more people than just myself.<br />
 __Saki__: That in itself is a very good thing, though.<br />
 __Saki__: Not just friends in class, recently, it's also been the student council...gununu...<br />
