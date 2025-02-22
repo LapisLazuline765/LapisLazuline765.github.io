@@ -1,6 +1,6 @@
 ---
 title: "Valentine Concerto"
-permalink: /gakumas/events/valentineconcerto/valentineconcerto
+permalink: /gakumas/events/valentineconcerto/valentineconcerto_main
 name: Valentine Concerto
 ---
 ________________________
@@ -19,7 +19,7 @@ ________________________
 [[Happy Millefeuille] Sena Juuou]
 #### Support Card Translations
 ----
-[[SSC's Secret] Rinami & Ume]<br />
+[[SSC's Secret] Rinami & Ume](/gakumas/supportcards/sscssecret)<br />
 [[Valentine's ♡ Meeting in Progress!] Rinami & Ume]<br />
 [[With All My Heart] Sena & Misuzu]<br />
 [[I Will Definitely Give It to You!] Sena & China]

@@ -14,4 +14,4 @@ gakumas-nav:
     #url: /gakumas/events
     children:
       - title: Valentine Concerto
-        url: /gakumas/events/valentineconcerto/valentineconcerto
+        url: /gakumas/events/valentineconcerto/valentineconcerto_main
