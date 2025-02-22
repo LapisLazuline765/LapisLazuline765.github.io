@@ -3,7 +3,7 @@ title: "With All My Heart"
 permalink: /gakumas/supportcards/withallmyheart
 name: With All My Heart
 ---
-________________________
+<img src="/assets/images/events/valentineconcerto/withallmyheart.png">
 
 #### With All My Heart Part 1: Completely Recreated Cuteness
 
@@ -50,7 +50,7 @@ __Sena__: When that girl leaves, she's like a ninja.
 
 ---
 
-#### With All My Heart Part 1: Made with Love
+#### With All My Heart Part 2: Made with Love
 
 ----
 

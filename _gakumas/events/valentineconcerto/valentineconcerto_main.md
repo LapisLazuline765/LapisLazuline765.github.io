@@ -3,7 +3,7 @@ title: "Valentine Concerto"
 permalink: /gakumas/events/valentineconcerto/valentineconcerto_main
 name: Valentine Concerto
 ---
-________________________
+<img src="/assets/images/events/valentineconcerto/valentineconcerto_main.png" width="400">
 
 #### Event Translations
 ----
@@ -19,7 +19,7 @@ ________________________
 [[Happy Millefeuille] Sena Juuou]
 #### Support Card Translations
 ----
-[[SSC's Secret] Rinami & Ume (SR)](/gakumas/supportcards/sscssecret)<br />
+[[SSC's Birth] Rinami & Ume (SR)](/gakumas/supportcards/sscsbirth)<br />
 [[Valentine's ♡ Meeting in Progress! (SSR)] Rinami & Ume]<br />
 [[With All My Heart] Sena & Misuzu (SR)](/gakumas/supportcards/withallmyheart)<br />
 [[I Will Definitely Give It to You! (SSR)] Sena & China]
