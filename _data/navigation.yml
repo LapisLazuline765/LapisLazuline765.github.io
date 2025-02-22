@@ -15,3 +15,5 @@ gakumas-nav:
     children:
       - title: Valentine Concerto
         url: /gakumas/events/valentineconcerto/valentineconcerto_main
+      - title: Cake-Connected Friend Christmas
+        url: /gakumas/events/cakeconnectedfriendchristmas/cakeconnectedfriendchristmas_main

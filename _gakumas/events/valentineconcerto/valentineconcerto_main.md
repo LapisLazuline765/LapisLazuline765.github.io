@@ -18,11 +18,11 @@ ________________________
 [[Happy Millefeuille] Rinami Himesaki]<br />
 [[Happy Millefeuille] Sena Juuou]
 #### Support Card Translations
-----run
-[[SSC's Secret] Rinami & Ume](/gakumas/supportcards/sscssecret)<br />
-[[Valentine's ♡ Meeting in Progress!] Rinami & Ume]<br />
-[[With All My Heart] Sena & Misuzu](/gakumas/supportcards/withallmyheart)<br />
-[[I Will Definitely Give It to You!] Sena & China]
+----
+[[SSC's Secret] Rinami & Ume (SR)](/gakumas/supportcards/sscssecret)<br />
+[[Valentine's ♡ Meeting in Progress! (SSR)] Rinami & Ume]<br />
+[[With All My Heart] Sena & Misuzu (SR)](/gakumas/supportcards/withallmyheart)<br />
+[[I Will Definitely Give It to You! (SSR)] Sena & China]
 
 #### Song Translations
 ----
