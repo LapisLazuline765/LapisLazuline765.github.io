@@ -12,7 +12,7 @@ name: Pyu and Shyu Duet
 *__On the running trail__*
 
 __China__: Shyu..., it is difficult~! Put it on your mouth and blow it...<br />
-__China__: Fueee there is grass in my mouth~~! It is bitter~~~!
+__China__: Fueee there is grass in my mouth~~! It is bitter~!
 
 __Temari__: ...what are you doing, eating a leaf?
 

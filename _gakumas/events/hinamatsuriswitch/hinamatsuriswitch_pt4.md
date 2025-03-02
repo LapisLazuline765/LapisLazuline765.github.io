@@ -107,7 +107,7 @@ __Mao__: ...China?
 
 __Temari__: S-Since when have you been there!?
 
-__China__: When the two of you started practicing, I have been watching for a long time!
+__China__: When the two of you started practicing, I have been watching for a long time!<br />
 __China__: I think Temari's Emperor is good.<br />
 __China__: But I really want to see Mao-senpai's Emperor.<br />
 __China__: That is why, I thought-<br />
