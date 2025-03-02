@@ -31,7 +31,7 @@ __Sena:__ That's right, Shinosawa-san. I would like to thank you for the other d
 
 __Hiro:__ Thank me?
 
-__Sena:__ Yes. Thank you for making the Ccoco Kotone 3D model so nice.<br />
+__Sena:__ Yes. Thank you for making the Choco Kotone 3D model so nice.<br />
 __Sena:__ You are going to give your friends chocolate as a surprise, right?<br />
 __Sena:__ Actually, on the festival stage, there happens to be some free time,<br />
 __Sena:__ if it only takes about the time of one song, you might be able to use it.<br />
@@ -116,9 +116,9 @@ __Ume:__ Eehh, Hiro-chan!?
 
 __Misuzu:__ Oh...!
 
-__China:__ A Shinosawa-san secret concert!
+__China:__ A Shinosawa-san secret live performance!
 
-__Sena:__ Fufu, this concert was made specifically for you guys.
+__Sena:__ Fufu, this live performance was made specifically for you guys.
 
 __Ume & China & Misuzu__: ...President!?
 

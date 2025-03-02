@@ -31,3 +31,4 @@ name: Torikaebaya Hinamatsuri
 #### Cultural Notes
 ----
 + There are sure a lot of onomatopoeias this time. [This website](https://thejadednetwork.com/sfx/index/a/) is very helpful if you want to learn more about Japanese to English onomatopoeia translations.
++ Hinamatsuri is often translated to Girl's Day and falls on March 3rd. I left it untranslated since it's a well known holiday. You can read more about the holiday [here](https://en.wikipedia.org/wiki/Hinamatsuri).
