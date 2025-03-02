@@ -118,7 +118,7 @@ __Misuzu:__ Oh...!
 
 __China:__ A Shinosawa-san secret live performance!
 
-__Sena:__ Fufu, this live performance was made specifically for you guys.
+__Sena:__ Fufu, this live performance was made specifically for you all.
 
 __Ume & China & Misuzu__: ...President!?
 
