@@ -27,7 +27,7 @@ ________________________
 #### Song Translations
 ----
 Translation by [The Kobemaster](https://www.youtube.com/@imasloid)
-[![Happy Millefeuille](https://img.youtube.com/vi/bpm4BaEEHdU/0.jpg)](https://www.youtube.com/watch?v=bpm4BaEEHdU)
+[![[White Night! White Wish!](https://img.youtube.com/vi/bpm4BaEEHdU/0.jpg)](https://www.youtube.com/watch?v=bpm4BaEEHdU)
 
 #### Comic Translations
 ----
