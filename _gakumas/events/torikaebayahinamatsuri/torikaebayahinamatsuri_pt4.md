@@ -1,11 +1,11 @@
 ---
-title: "Torikaebaya Hinamatsuri Part 3"
-permalink: /gakumas/events/torikaebayahinamatsuri/torikaebayahinamatsuri_pt3
-name: Torikaebaya Hinamatsuri Part 3
+title: "Torikaebaya Hinamatsuri Part 4"
+permalink: /gakumas/events/torikaebayahinamatsuri/torikaebayahinamatsuri_pt4
+name: Torikaebaya Hinamatsuri Part 4
 ---
 ________________________
 <!--
-#### Torikaebaya Hinamatsuri Part 3
+#### Torikaebaya Hinamatsuri Part 4
 ----
 --->
 
@@ -98,3 +98,5 @@ C: Fufu, just leave it to me!
 T: So then, it's decided-
 T: ...Arimura-senpai, can you show me the model for the Imperial Palace?
 C: ...got it. Thank you Termari, China.
+
+---
