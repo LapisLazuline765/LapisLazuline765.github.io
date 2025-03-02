@@ -14,7 +14,7 @@ gakumas-nav:
     #url: /gakumas/events
     children:
       - title: Torikaebaya Hinamatsuri
-          url: /gakumas/events/torikaebayahinamatsuri/torikaebayahinamatsuri_main
+        url: /gakumas/events/torikaebayahinamatsuri/torikaebayahinamatsuri_main
       - title: Valentine Concerto
         url: /gakumas/events/valentineconcerto/valentineconcerto_main
       #- title: Cake-Connected Friend Christmas
