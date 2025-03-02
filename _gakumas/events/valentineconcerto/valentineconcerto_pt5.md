@@ -126,7 +126,7 @@ __Sena:__ It was made to give to precious friends.
 
 ---
 
-*__Later in the greenroom__*
+*__Later, in the greenroom__*
 
 __Hiro:__ Everyone, thank you for coming.
 
@@ -165,7 +165,7 @@ ___Ume & China:__ Here, friend chocolate. [*hands over chocolate*]
 __Hiro:__ ...-<br />
 __Hiro:__ ...everyone, thank you.
 
-*__Later in the dorm hallway__*
+*__Later, in the dorm hallway__*
 
 __Kotone:__ Whew, I'm home-. Work, work..ah.
 

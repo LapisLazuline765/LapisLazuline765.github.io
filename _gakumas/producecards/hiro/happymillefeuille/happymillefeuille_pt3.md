@@ -71,7 +71,7 @@ __Hiro:__ This is...good.
 
 ---
 
-*__Later outside the dorms__*
+*__Later, outside the dorms__*
 
 __Hiro:__ -Producer. Thank you for today.
 

@@ -74,7 +74,7 @@ __Hiro:__ I want to use it as a reference.
 
 ---
 
-*__Later in the student council room__*
+*__Later, in the student council room__*
 
 __Sena:__ Fufu, here it is.
 
@@ -115,7 +115,7 @@ __Hiro:__ The application of computational objects. I haven't done it much.
 
 ---
 
-*__Later in the school hallway__*
+*__Later, in the school hallway__*
 
 __Hiro:__ I was impressed.
 

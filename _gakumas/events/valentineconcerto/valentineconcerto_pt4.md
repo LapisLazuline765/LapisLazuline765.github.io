@@ -48,7 +48,7 @@ __Rinami:__ ...sure, let's go together.
 
 ---
 
-*__Later outside of the dorms__*
+*__Later, outside of the dorms__*
 
 __Rinami:__ ...phew. I'm glad they sold cacao beans.
 
@@ -122,7 +122,7 @@ __Rinami:__ Yes, let's make it together.
 
 ---
 
-*__later in the communal kitchen__*
+*__Later, in the communal kitchen__*
 
 __Hiro:__ ...it's done.
 

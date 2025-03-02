@@ -92,7 +92,7 @@ __Hiro:__ I'll just read it here after all.
 
 ---
 
-*__Later in the library__*
+*__Later__*
 
 __Hiro:__ ...Whew. I almost got it. All that's left to do is make it according to theory.
 
